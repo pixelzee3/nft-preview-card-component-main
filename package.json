@@ -1,0 +1,22 @@
+{
+  "name": "nft-preview-card-component-main",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pixelzee3/nft-preview-card-component-main.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pixelzee3/nft-preview-card-component-main/issues"
+  },
+  "homepage": "https://github.com/pixelzee3/nft-preview-card-component-main#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "parcel": "^2.2.1",
+    "postcss": "^8.4.6",
+    "tailwindcss": "^3.0.18"
+  }
+}
